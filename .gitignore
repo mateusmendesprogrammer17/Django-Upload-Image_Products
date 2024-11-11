@@ -1,0 +1,13 @@
+# Ambiente virtual
+.venv/
+env/
+
+# Arquivos Python
+*.pyc
+__pycache__/
+
+# Banco de dados SQLite do Django
+*.sqlite3
+
+#IDE 
+.vscode
