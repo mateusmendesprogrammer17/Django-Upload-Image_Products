@@ -1,5 +1,5 @@
 Upload de Imagens com Django
-Este guia irá te ensinar como configurar um projeto Django para realizar upload de imagens e configurar o banco de dados (MySQL). Vamos passar pelas etapas desde a criação do ambiente virtual até a execução do servidor.
+Este guia irá te ensinar como configurar um projeto Django para realizar upload de imagens e configurar o banco de dados (MySQL ou Mariadb). Vamos passar pelas etapas desde a criação do ambiente virtual até a execução do servidor.
 
 1. Criar o Ambiente Virtual
 Para garantir que as dependências do seu projeto sejam isoladas, é recomendado criar um ambiente virtual. Para criar o ambiente, execute o seguinte comando no terminal:
