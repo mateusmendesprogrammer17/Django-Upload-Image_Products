@@ -115,8 +115,7 @@ Após a instalação das dependências, você pode verificar as versões das bib
 pip list
 Isso exibirá uma lista como a seguinte:
 
-yaml
-Copiar código
+
 asgiref             3.8.1
 crispy-bootstrap5   2024.10
 Django              5.1.2
