@@ -20,6 +20,7 @@ No Linux/Mac:
 
 
 source .venv/bin/activate
+
 Após ativar o ambiente, você verá o nome do ambiente virtual no início da linha de comando, indicando que ele está ativo.
 
 3. Instalar Dependências
